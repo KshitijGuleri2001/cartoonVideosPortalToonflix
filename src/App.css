@@ -1,0 +1,11 @@
+/* Assuming you have a CSS file like 'styles.css' */
+
+.phone-screen {
+    width: 375px; /* Typical mobile screen width (e.g., iPhone 6/7/8) */
+    height: 667px; /* Typical mobile screen height (portrait mode) */
+    margin: 0 auto; /* Center the content horizontally */
+    overflow: hidden; /* Prevent horizontal scrolling */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow effect */
+    border-radius: 8px; /* Optional: Rounded corners for a more realistic look */
+  }
+  
